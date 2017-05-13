@@ -1,0 +1,19 @@
+{
+  "name": "hello-arduino",
+  "version": "1.0.0",
+  "description": "Hello World using JS and Arduino",
+  "main": "blink.js",
+  "scripts": {
+    "test": "node blink.js"
+  },
+  "keywords": [
+    "arduino",
+    "node",
+    "javascript"
+  ],
+  "author": "Filipe Fernandes",
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five": "latest"
+  }
+}
